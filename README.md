@@ -11,6 +11,7 @@ This template is meant for those who have a basic understanding of aoi.js and wa
 - Pre-defined constructor of [aoi.js](https://npmjs.org/package/aoi.js) and it's essential for developers.
 - Pre-defined constructor of [@akarui/aoi.music](https://npmjs.org/package/@akarui/aoi.music) to allow developers to swiftly begin a music experience.
 - Pre-defined constructor of [@akarui/aoi.panel](https://npmjs.org/package/@akarui/aoi.panel) to allow developers to swiftly begin a developer panel experience.
+- comes with aoi.db so ensuring that the bot is up to date with latest aoi.js tools and changes
 
 ## Usage
 
