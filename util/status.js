@@ -1,5 +1,5 @@
 module.exports = {
-    text: "Customize your bot's status",
+    text: "hi",
     status: "idle",
     type: "PLAYING",
     time: 12
