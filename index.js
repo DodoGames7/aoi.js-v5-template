@@ -14,6 +14,7 @@ const bot = new AoiClient({
       dbType: "KeyValue",
     },
 },
+  mobilePlatform: config.mobilePlatform
 });
 
 // Loader setup
