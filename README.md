@@ -1,6 +1,5 @@
-## aoi.js-advanced template
-
-For those who are intermediate with aoi.js, this template is the one for you.
+# what is this
+an repo to get the most out of aoi.js v5, you can choose to enable mobile status and more options via `config.json` settings
 
 ## Important
 
@@ -21,6 +20,3 @@ This template is meant for those who have a basic understanding of aoi.js and wa
 4. Add your bot with the neccessary permissions `https://discord.com/oauth2/authorize?client_id=YOUR_BOTS_CLIENT_ID&scope=applications.commands`
 5. Run the bot via `npm run start`
 
-## Support Server
-
-Do you need assistance? Join the [Support Server](https://aoi.js.org/invite)
