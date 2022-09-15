@@ -4,5 +4,6 @@
     "panel-username": "CHANGEUSERNAME",
     "panel-password": "CHANGEPASSWORD",
     "panel-secret": "aoijs",
-    "panel-port": "3000"
+    "panel-port": "3000",
+    "mobilePlatform": false
 }
